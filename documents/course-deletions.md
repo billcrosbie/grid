@@ -5,7 +5,7 @@
 
 ### Game Development & Game Art
 - **DELETE**
-    - GDEV267 Programming for Game Developers → *Merged into GRID 201*
+    - GDEV267 Programming for Game Developers → *parts Merged into GRID 201*
     - GDEV290 Advanced Game Design and Development → *Merged into GRID 202*
     - ARTS209 Two-Dimensional Game Design Studio
 - **REVISED**
@@ -13,6 +13,8 @@
         - → GRID 120 - Game Design Theory
     - ARTS106 Foundations of Game Engines​
         - → GRID 150 - Game Engines
+    - GDEV267 Programming for Game Developers (advanced content)
+        -   GRID 170 - Game System Implementation     
     - ARTS259 Game Narrative and Concepts
         - → GRID 221 - Narrative & World-building
     - ARTS277 Game Audio and Video
