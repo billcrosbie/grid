@@ -55,12 +55,6 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 * [GRID 231 - JavaScript](../classes/231-javascript.md)
 * [GRID 240 - From Concept to Company](../classes/240-from-concept-to-company.md) — **NEW**
 * [GRID 250 - Game Systems Implementation](../classes/250-game-systems-implementation.md) — **NEW**
-    * A rotating set of 4-6 electives covering topics such as:
-        * Action
-        * Cozy
-        * RPG
-        * Racing
-        * Consoles
 * ARTS 113 - Audio Production
 * BUSI 111 - Introduction to Business
 * BUSI 153 - Small Business Managment
