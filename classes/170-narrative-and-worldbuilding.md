@@ -2,7 +2,7 @@
 
 **CURRENT COURSE OUTLINE IN OUTDATED FORMAT**
 
-# ARTS 259 — Game Narrative and Concepts
+# GRID170 — Game Dsign: World Building, Story and Character
 
 ## I. Basic Course Information
 
