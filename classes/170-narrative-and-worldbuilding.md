@@ -2,11 +2,11 @@
 
 **CURRENT COURSE OUTLINE IN OUTDATED FORMAT**
 
-# ARTS 259 — Game Narrative and Concepts
+# GRID170 — Game Systems: World Building, Story and Character
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ARTS 259 — Game Narrative and Concepts
+- **A.** **Course Number and Title:** GRID170 — Game Systems: World Building, Story and Character
 - **B.** **New or Modified Course:** Modified
 - **C.** **Date of Proposal:**  
     - Semester: Spring  
